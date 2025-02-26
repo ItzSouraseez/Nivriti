@@ -66,11 +66,11 @@ body {
 
 .heading_container a {
   display: inline-block;
-  background: #fad932;
+  background: #ff722d;
   color: #000000;
   padding: 10px 35px;
   border-radius: 30px;
-  border: 1px solid #fad932;
+  border: 1px solid #ff722d;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   text-transform: uppercase;
@@ -79,7 +79,7 @@ body {
 
 .heading_container a:hover {
   background: transparent;
-  color: #fad932;
+  color: #ff722d;
 }
 
 @-webkit-keyframes hueAnimate {
@@ -392,11 +392,11 @@ a:focus {
 
 .slider_section .detail-box a {
   display: inline-block;
-  background: #fad932;
+  background: #ff722d;
   color: #000000;
   padding: 10px 25px;
   border-radius: 30px;
-  border: 1px solid #fad932;
+  border: 1px solid #ff722d;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   text-transform: uppercase;
@@ -405,7 +405,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background: transparent;
-  color: #fad932;
+  color: #ff722d;
 }
 
 .slider_section .img-box {
@@ -468,7 +468,7 @@ a:focus {
 
 .slider_section .carousel_btn-container .carousel-control-prev:hover,
 .slider_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #fad932;
+  background-color: #ff722d;
   border-color: transparent;
 }
 
@@ -512,7 +512,7 @@ a:focus {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   border-radius: 100%;
-  background-color: #fad932;
+  background-color: #ff722d;
   -webkit-transition: all .3s;
   transition: all .3s;
   z-index: 2;
@@ -542,7 +542,7 @@ a:focus {
 }
 
 .about_section .img-box .play_btn {
-  background: #fad932;
+  background: #ff722d;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -573,7 +573,7 @@ a:focus {
 }
 
 .about_section .img-box .play_btn a {
-  background: #fad932;
+  background: #ff722d;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -602,7 +602,7 @@ a:focus {
   position: absolute;
   top: 50%;
   left: 50%;
-  background: #fad932;
+  background: #ff722d;
   opacity: 1;
   border-radius: 100%;
   -webkit-transform: translate(-50%, -50%);
@@ -645,8 +645,6 @@ a:focus {
   width: 100%;
   -webkit-transform: rotate(-25deg);
           transform: rotate(-25deg);
-  -webkit-animation: hueAnimate .7s infinite;
-          animation: hueAnimate .7s infinite;
 }
 
 .about_section .btn-box {
@@ -919,7 +917,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #fad932;
+  background-color: #ff722d;
 }
 
 .client_section .carousel-control-prev {
